@@ -1,0 +1,7 @@
+selenium
+python-telegram-bot
+python-time
+webdriver_manager
+chromedriver-py
+dependencies
+remote-debugging-path-chromium
